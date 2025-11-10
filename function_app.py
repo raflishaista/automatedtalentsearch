@@ -232,12 +232,15 @@ def find_talent_for_use_case(df_ureq, df_skillinv, df_talent, df_eval, df_hist, 
 
 @app.route(route="talent_recommender", auth_level=func.AuthLevel.FUNCTION)
 def talent_recommender(req: func.HttpRequest) -> func.HttpResponse:
-    logging.info('Talent Recommender function processing a request.')
+    """
+    Modified version — runs full background analysis (like final_df) for all jobs and all talents.
+    Does not require a 'query' or 'threshold' parameter.
+    """
+
+    logging.info('Talent Recommender (Full Analysis) started.')
+
     try:
-        # Get action from query params (keep this as is)
-        action = req.params.get('action')
-        
-        # Get request body
+        # Parse request body
         try:
             req_body = req.get_json() if req.get_body() else {}
         except ValueError:
@@ -245,117 +248,51 @@ def talent_recommender(req: func.HttpRequest) -> func.HttpResponse:
                 json.dumps({"error": "Invalid JSON in request body"}),
                 status_code=400
             )
-        
-        # Check if datasets are provided in the request
+
+        # Load datasets from request
         datasets_json = req_body.get('datasets')
         datasets = load_datasets_from_json(datasets_json)
-        
         if not datasets:
             return func.HttpResponse(
                 json.dumps({"error": "Could not load datasets. Check logs."}),
                 status_code=500
             )
 
-        if action == 'find_talent':
-            # Get query and threshold from request body
-            job_query = req_body.get('query')
-            threshold = float(req_body.get('threshold', 0.3))
+        # --- Run full pipeline (same as run_background_analysis) ---
+        df_final = find_talent_for_use_case(
+            df_ureq=datasets["df_ureq"],
+            df_skillinv=datasets["df_skillinv"],
+            df_talent=datasets["df_talent"],
+            df_eval=datasets["df_eval"],
+            df_hist=datasets["df_hist"],
+            df_assign=datasets["df_assign"]
+        )
 
-            if not job_query:
-                return func.HttpResponse(
-                    json.dumps({
-                        "error": "Please provide a 'query' in the request body, e.g., 'data analysis and modeling'."
-                    }),
-                    status_code=400
-                )
+        # Optional: reorder or limit columns (to mirror your previous final_df)
+        columns_order = [
+            "Responsibilities", "Skill 1", "Skill 2", "Role", "agg_sentences",
+            "UNIQUE ID", "Role Person", "Skillset", "Avg_SkillScore", "Cluster",
+            "ROLE", "LAMA KERJA BERJALAN", "GRADE", "Durasi Bulan",
+            "Technical Score (29,06%)", "Personal Evaluation Score (49,17%)",
+            "Discipline Score (15,06%)", "Development Score (7%)",
+            "Expert Judgement", "Capability Score", "scoring_eval",
+            "job_count", "d", "finalscore", "finalscore_scaled"
+        ]
+        existing_cols = [c for c in columns_order if c in df_final.columns]
+        df_final = df_final[existing_cols]
 
-            # 1. Find jobs similar to the user's query
-            sentence_model = get_model()
-            all_jobs_df = datasets["df_ureq"].copy()
-            
-            # Create the 'agg_sentences' column BEFORE using it
-            all_jobs_df['agg_sentences'] = (
-                all_jobs_df['Responsibilities'] + " " + 
-                all_jobs_df['Skill 1'].fillna('') + " " + 
-                all_jobs_df['Skill 2'].fillna('')
-            )
-            
-            job_sentences = all_jobs_df['agg_sentences'].tolist()
-            job_embeddings = sentence_model.encode(job_sentences)
-            query_embedding = sentence_model.encode([job_query])
-            
-            similarity_scores = cosine_similarity(query_embedding, job_embeddings)[0]
-            all_jobs_df['query_similarity'] = similarity_scores
-            
-            # 2. Filter jobs above the similarity threshold
-            matching_jobs_df = all_jobs_df[all_jobs_df['query_similarity'] >= threshold]
-            
-            if matching_jobs_df.empty:
-                return func.HttpResponse(
-                    json.dumps({
-                        "message": "No jobs found matching your query with the given threshold.",
-                        "results": []
-                    }),
-                    status_code=200,
-                    mimetype="application/json"
-                )
-
-            matching_job_names = matching_jobs_df['Responsibilities'].tolist()
-
-            # 3. Get the pre-calculated scores for all talent
-            # Pass the modified all_jobs_df to the function
-            datasets_copy = datasets.copy()
-            datasets_copy['df_ureq'] = all_jobs_df
-            df_final_scores = find_talent_for_use_case(**datasets_copy)
-            
-            # 4. Filter the talent results for the matched jobs
-            result_df = df_final_scores[df_final_scores['Responsibilities'].isin(matching_job_names)]
-            
-            # Merge to include the query similarity score in the final output
-            result_df = result_df.merge(
-                matching_jobs_df[['Responsibilities', 'query_similarity']], 
-                on='Responsibilities', 
-                how='left'
-            )
-            
-            # Sort by job similarity first, then by talent score
-            result_df = result_df.sort_values(
-                by=['query_similarity', 'finalscore_scaled'], 
-                ascending=[False, False]
-            )
-            
-            # 5. Format and return the response
-            response_cols = ['UNIQUE ID', 'Role Person', 'Responsibilities', 'query_similarity', 'finalscore_scaled', 'Cluster']
-            # Ensure we only have columns that actually exist
-            response_cols = [col for col in response_cols if col in result_df.columns]
-            
-            result_json = result_df[response_cols].to_json(orient="records")
-            return func.HttpResponse(
-                result_json, 
-                mimetype="application/json", 
-                status_code=200
-            )
-
-        elif action == 'list_jobs':
-            jobs_list = datasets["df_ureq"]["Responsibilities"].unique().tolist()
-            return func.HttpResponse(
-                json.dumps(jobs_list, indent=2), 
-                mimetype="application/json", 
-                status_code=200
-            )
-
-        else:
-            return func.HttpResponse(
-                json.dumps({
-                    "error": f"Invalid or missing 'action'. Try '?action=find_talent' or '?action=list_jobs'."
-                }),
-                status_code=400
-            )
+        # --- Return as JSON ---
+        result_json = df_final.to_json(orient="records")
+        return func.HttpResponse(
+            result_json,
+            mimetype="application/json",
+            status_code=200
+        )
 
     except Exception as e:
-        logging.error(f"An error occurred in talent_recommender: {e}", exc_info=True)
+        logging.error(f"Error in talent_recommender full analysis: {e}", exc_info=True)
         return func.HttpResponse(
-            json.dumps({"error": str(e)}), 
+            json.dumps({"error": str(e)}),
             status_code=500
         )
         
@@ -381,7 +318,6 @@ def upload_results_to_blob(req: func.HttpRequest) -> func.HttpResponse:
             df = df.drop_duplicates(subset=["UNIQUE ID", "Responsibilities"], keep="first")
 
         # Limit to first 15 entries (for testing)
-        df = df.head(15)
 
         # Convert back to JSON
         clean_json = df.to_json(orient="records")
