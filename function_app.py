@@ -110,13 +110,17 @@ def load_datasets_from_json_newfile(json_data):
         return None
     
 def is_json_valid(df):
-    """ Basic validation for latest.json """
+    """ Row-level validation for latest.json """
     if df.empty:
         return False
     
     required_columns = ["UNIQUE ID", "Responsibilities"]
+
+    # FAIL if ANY ROW is missing ANY required field
     for col in required_columns:
         if col not in df.columns:
+            return False
+        if df[col].isnull().any():      # <-- THIS IS WHAT YOU WERE MISSING
             return False
 
     return True
@@ -161,13 +165,10 @@ def minmax_scaling(series):
     return (series - series.min()) / (series.max() - series.min())
 
 def find_talent_for_use_case_newfile(df_ureq, df_selfassessment, df_talent, df_eval, df_hist, df_assign):
-    """
-    Newfile version of find_talent_for_use_case() that uses the Self-Assessment dataset
-    instead of Skill Inventory, following the same overall logic.
-    """
+
     sentence_model = get_model()
 
-    # Step 1: Aggregate the textual representation of each use case
+    # --- Step 1: Build agg sentences ---
     if 'agg_sentences' not in df_ureq.columns:
         df_ureq['agg_sentences'] = (
             df_ureq['Responsibilities'] + " " +
@@ -175,97 +176,83 @@ def find_talent_for_use_case_newfile(df_ureq, df_selfassessment, df_talent, df_e
             df_ureq['Skill 2'].fillna('')
         )
 
-    # Step 2: Identify skill columns in the self-assessment dataset
-    skillsets = [col for col in df_selfassessment.columns if col not in ['UNIQUE ID']]
+    # Step 2
+    skillsets = [col for col in df_selfassessment.columns if col != 'UNIQUE ID']
 
-    # Step 3: Calculate sentence similarity between use case and each skill category
     results = []
     for _, row in df_ureq.iterrows():
         corpus = [row['agg_sentences']] + skillsets
         embeddings = sentence_model.encode(corpus)
-        embeddings = np.array(embeddings)
-        sim_scores = cosine_similarity(embeddings[0].reshape(1, -1), embeddings[1:])[0]
+        sim_scores = cosine_similarity([embeddings[0]], embeddings[1:])[0]
 
         for i, skill in enumerate(skillsets):
             results.append([
-                row['Responsibilities'], row['Skill 1'], row['Skill 2'], row['Role'], skill, sim_scores[i]
+                row['Responsibilities'],
+                row['Skill 1'],
+                row['Skill 2'],
+                row['Role'],        # KEEP ONLY for metadata, not for talent role
+                skill,
+                sim_scores[i]
             ])
 
     df_results = pd.DataFrame(
         results,
-        columns=['Responsibilities', 'Skill 1', 'Skill 2', 'Role', 'Skillset', 'Similarity score']
+        columns=['Responsibilities', 'Skill 1', 'Skill 2', 'Requested_Role', 'Skillset', 'Similarity score']
     )
+    
+
+    # FILTER
     df_results_filtered = df_results[df_results['Similarity score'] >= 0.3]
 
-    # Step 4: Simulate a "Role Person" column (not present in Self-Assessment)
-    unique_ids_roles = pd.DataFrame({
-        'UNIQUE ID': df_selfassessment['UNIQUE ID'].unique(),
-        'Role Person': None  # placeholder for consistency
-    })
+    # --- Step 4: Role Person removed; rely on ROLE from Talent ---
+    unique_ids = df_selfassessment[['UNIQUE ID']].drop_duplicates()
+    merged_df = df_results_filtered.merge(unique_ids, how='cross')
 
-    merged_df = df_results_filtered.merge(unique_ids_roles, how='cross')
-
-    # Step 5: Attach individual skill scores from self-assessment
+    # --- Step 5: Skill Score ---
     def get_skill_score(row):
         try:
-            val = df_selfassessment.loc[
-                df_selfassessment['UNIQUE ID'] == row['UNIQUE ID'], row['Skillset']
-            ]
+            val = df_selfassessment.loc[df_selfassessment['UNIQUE ID'] == row['UNIQUE ID'], row['Skillset']]
             return float(val.values[0]) if not val.empty else np.nan
-        except Exception:
+        except:
             return np.nan
 
     merged_df['Skill Score'] = merged_df.apply(get_skill_score, axis=1)
-    
-    
 
+    # --- Step 6: Aggregation (REMOVE Role entirely here) ---
     df_search = merged_df.groupby(
-        ['Responsibilities', 'Role', 'UNIQUE ID'], as_index=False
+        ['Responsibilities', 'UNIQUE ID', 'Requested_Role'], as_index=False
     ).agg(Avg_SkillScore=('Skill Score', 'mean'))
 
-    print("Aggregated DF Search:")
-    print(df_search.head())
-    
-    
-    
-    # Step 6: Clustering on skill profile (same as original)
-    df_numerical = df_selfassessment.select_dtypes(include=[np.number]).dropna(axis=1)
-    if len(df_numerical) >= 4 and len(df_numerical.columns) >= 2:
-        pca = PCA(n_components=2)
-        df_pca = pca.fit_transform(df_numerical)
-        kmeans = KMeans(n_clusters=4, random_state=42, n_init='auto')
-        df_selfassessment['Cluster'] = kmeans.fit_predict(df_pca)
-        df_search = df_search.merge(df_selfassessment[['UNIQUE ID', 'Cluster']], on='UNIQUE ID', how='left')
-    else:
-        df_search['Cluster'] = -1
-    
-    
-    # Step 7: Merge talent data and evaluation
+
+    # --- Step 7: Merge with Talent & Eval ---
     df_talent['Durasi Bulan'] = df_talent['LAMA KERJA BERJALAN'].apply(convert_to_months)
-    df_agg_talent = pd.merge(df_talent, df_eval, on='UNIQUE ID', how='inner')
+    df_agg_talent = pd.merge(df_talent, df_eval, on='UNIQUE ID')
+
+    # scoring eval already Capability Score
     df_agg_talent['scoring_eval'] = df_agg_talent['Capability Score']
-    df_merged = pd.merge(df_search, df_agg_talent, on='UNIQUE ID', how='inner')
-    
-    
-    # Step 8: Add use case history counts
+
+    # MERGE
+    df_merged = pd.merge(df_search, df_agg_talent, on='UNIQUE ID')
+
+    # --- Step 8: History ---
     df_hist_count = df_hist.groupby("UNIQUE ID")["PRODUCT / USECASE"].nunique().reset_index(name="job_count")
-    df_final = pd.merge(df_merged, df_hist_count, on='UNIQUE ID', how='left').fillna({'job_count': 0})
-    
-    
-    
-    # Step 9: Final scoring — same as your main version
+    df_final = df_merged.merge(df_hist_count, on='UNIQUE ID', how='left').fillna({'job_count': 0})
+
+    # --- Step 9: Final scoring ---
     a, b, r = 0.47, 0.53, 1.2
-    df_final['d'] = (df_final['Avg_SkillScore'] * a + df_final['scoring_eval'] * b)
-    df_final['finalscore'] = df_final['d']  # No Role Person match logic
+    df_final['d'] = df_final['Avg_SkillScore'] * a + df_final['scoring_eval'] * b
+    df_final['finalscore'] = df_final['d']
     df_final['finalscore_scaled'] = df_final.groupby('Responsibilities')['finalscore'].transform(minmax_scaling)
-    
-    df_final.to_csv('dfinal_scaled.csv', index=False)
-    
-    print(df_final.head())
+
+    # --- REMOVE "Role" BUT PRESERVE "Required_Role" FOR TRACEABILITY ---
+    if "Role" in df_final.columns:
+        df_final.drop(columns=["Role"], inplace=True)
+
+    # Rename Required_Role → Requested_Role to avoid confusion
+    df_final = df_final.rename(columns={"Required_Role": "Requested_Role"})
 
     return df_final
 
-# --- CORE LOGIC FUNCTIONS ---
 
         
 @app.route(route="talent_recommender_newfile", auth_level=func.AuthLevel.FUNCTION)
@@ -311,11 +298,9 @@ def talent_recommender_newfile(req: func.HttpRequest) -> func.HttpResponse:
 
         # Optional: reorder or limit columns (to mirror your previous final_df)
         columns_order = [
-            "Responsibilities", "Skill 1", "Skill 2", "Role", "agg_sentences",
-            "UNIQUE ID", "Role Person", "Skillset", "Avg_SkillScore", "Cluster",
-            "ROLE", "LAMA KERJA BERJALAN", "GRADE", "Durasi Bulan",
-            "Technical Score (29,06%)", "Personal Evaluation Score (49,17%)",
-            "Discipline Score (15,06%)", "Development Score (7%)",
+            "Responsibilities", "Skill 1", "Skill 2", "Requested_Role", "agg_sentences",
+            "UNIQUE ID", "Avg_SkillScore", "Cluster", "ROLE",
+            "LAMA KERJA BERJALAN", "GRADE", "Durasi Bulan",
             "Expert Judgement", "Capability Score", "scoring_eval",
             "job_count", "d", "finalscore", "finalscore_scaled"
         ]
@@ -411,34 +396,6 @@ def upload_results_to_blob(req: func.HttpRequest) -> func.HttpResponse:
 
     except Exception as e:
         return func.HttpResponse(str(e), status_code=500)
-
-@app.route(route="rollback_latest", auth_level=func.AuthLevel.FUNCTION)
-def rollback_latest(req: func.HttpRequest):
-    blob_service = BlobServiceClient.from_connection_string(os.environ["AzureWebJobsStorage"])
-    container = blob_service.get_container_client("blobcleancontainer")
-
-    # list all versioned files
-    blobs = list(container.list_blobs(name_starts_with="talent_results_"))
-
-    if not blobs:
-        return func.HttpResponse("No previous versions available", status_code=404)
-
-    # sort by timestamp in blob name
-    blobs.sort(key=lambda b: b.name, reverse=True)
-
-    # pick the most recent one
-    previous = blobs[0].name
-    previous_blob = container.get_blob_client(previous)
-    latest_blob = container.get_blob_client("latest.json")
-
-    content = previous_blob.download_blob().readall()
-    latest_blob.upload_blob(content, overwrite=True)
-
-    return func.HttpResponse(
-        json.dumps({"message": "Rollback complete", "restored_from": previous}),
-        status_code=200
-    )
-
 
 @app.blob_trigger(arg_name="myblob", ource = "EventGrid", path="mycontainer",
                                connection="4a07e8_STORAGE") 
