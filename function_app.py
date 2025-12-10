@@ -327,7 +327,7 @@ def talent_recommender_newfile(req: func.HttpRequest) -> func.HttpResponse:
         columns_order = [
             "Responsibilities", "Skill 1", "Skill 2", "Requested_Role",
             "agg_sentences", "UNIQUE ID", "Avg_SkillScore", 
-            "Cluster", "ROLE", "LAMA KERJA BERJALAN", "GRADE", "LEVEL", "SKILL INDEX", "SKILL INDEX INT",
+            "Cluster", "ROLE", "LAMA KERJA BERJALAN", "GRADE", "LEVEL", "LG INDEX"
             "Durasi Bulan", "Expert Judgement", "Capability Score", 
             "scoring_eval", "job_count", "d", "finalscore", "finalscore_scaled"
         ]
