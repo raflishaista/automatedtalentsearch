@@ -1,0 +1,1201 @@
+Responsibilities,Skill 1,Skill 2,Required_Role,Skillset,Similarity score
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Mathematics,0.13220891
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Statistics,0.15172102
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Data Literacy & Governance,0.43919662
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Exploratory Data Analysis,0.54518425
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Visualization & Reporting,0.55206895
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Machine Learning,0.1597889
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Deep Learning,0.05980051
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Data Engineering,0.6113964
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Model Deployment & MLOps,0.1087928
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,AI Ethics,0.08495405
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Software Engineering,0.29433775
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Big Data Ecosystem,0.2900169
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Mathematics,0.11149363
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Statistics,0.20377487
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Data Literacy & Governance,0.41362357
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Exploratory Data Analysis,0.5421699
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Visualization & Reporting,0.6682459
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Machine Learning,0.13893212
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Deep Learning,0.05213631
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Data Engineering,0.52264
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Model Deployment & MLOps,0.1413989
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,AI Ethics,0.046632998
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Software Engineering,0.25587952
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Big Data Ecosystem,0.34976017
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Mathematics,0.19121602
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Statistics,0.44635278
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Data Literacy & Governance,0.15313336
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Exploratory Data Analysis,0.23709688
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Visualization & Reporting,0.20090301
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Machine Learning,0.16633493
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Deep Learning,0.014792497
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Data Engineering,0.24005203
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Model Deployment & MLOps,0.073815465
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,AI Ethics,0.047472436
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Software Engineering,0.1648256
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Big Data Ecosystem,0.04997579
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Mathematics,0.101509824
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Statistics,0.12690175
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Data Literacy & Governance,0.23319647
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Exploratory Data Analysis,0.45981872
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Visualization & Reporting,0.5337261
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Machine Learning,0.19495293
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Deep Learning,0.07966633
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Data Engineering,0.36735356
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Model Deployment & MLOps,0.13247499
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,AI Ethics,0.10483323
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Software Engineering,0.20324938
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Big Data Ecosystem,0.17678645
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Mathematics,0.16215688
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Statistics,0.25936866
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Data Literacy & Governance,0.21888205
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Exploratory Data Analysis,0.26357293
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Visualization & Reporting,0.19407934
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Machine Learning,0.14902547
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Deep Learning,0.030988708
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Data Engineering,0.14686951
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Model Deployment & MLOps,0.019907586
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,AI Ethics,0.12636662
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Software Engineering,0.14222431
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Big Data Ecosystem,0.12226624
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Mathematics,0.018228456
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Statistics,0.062744014
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Data Literacy & Governance,0.30424964
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Exploratory Data Analysis,0.35989344
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Visualization & Reporting,0.29195967
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Machine Learning,0.15188411
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Deep Learning,0.12534387
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Data Engineering,0.5416769
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Model Deployment & MLOps,0.23219922
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,AI Ethics,0.07598194
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Software Engineering,0.35163066
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Big Data Ecosystem,0.29405564
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Mathematics,0.06498662
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Statistics,0.08232334
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Data Literacy & Governance,0.39126593
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Exploratory Data Analysis,0.2124793
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Visualization & Reporting,0.20828259
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Machine Learning,0.14653441
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Deep Learning,0.08391555
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Data Engineering,0.4394128
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Model Deployment & MLOps,0.31916916
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,AI Ethics,0.06258494
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Software Engineering,0.2403323
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Big Data Ecosystem,0.606198
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Mathematics,-0.060923137
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Statistics,0.004176561
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Data Literacy & Governance,0.1712127
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Exploratory Data Analysis,0.11674589
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Visualization & Reporting,0.049912207
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Machine Learning,0.13143796
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Deep Learning,0.06356041
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Data Engineering,0.26374277
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Model Deployment & MLOps,0.19381383
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,AI Ethics,0.055403627
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Software Engineering,0.103652105
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Big Data Ecosystem,0.36584345
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Mathematics,0.009989068
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Statistics,0.04918886
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Data Literacy & Governance,0.26950824
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Exploratory Data Analysis,0.14273205
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Visualization & Reporting,0.10536453
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Machine Learning,0.11194484
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Deep Learning,0.054962244
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Data Engineering,0.3797065
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Model Deployment & MLOps,0.18231902
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,AI Ethics,0.08755557
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Software Engineering,0.18414727
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Big Data Ecosystem,0.4260695
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Mathematics,0.064085625
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Statistics,0.054628912
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Data Literacy & Governance,0.4317875
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Exploratory Data Analysis,0.13677898
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Visualization & Reporting,0.048307505
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Machine Learning,0.085224845
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Deep Learning,-0.0029911082
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Data Engineering,0.4336848
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Model Deployment & MLOps,0.096751854
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,AI Ethics,0.19663605
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Software Engineering,0.261634
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Big Data Ecosystem,0.31245804
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Mathematics,0.16681789
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Statistics,0.15925646
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Data Literacy & Governance,0.06955379
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Exploratory Data Analysis,0.35495806
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Visualization & Reporting,0.18913932
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Machine Learning,0.4759453
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Deep Learning,0.30359438
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Data Engineering,0.2868387
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Model Deployment & MLOps,0.1629806
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,AI Ethics,0.19046322
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Software Engineering,0.17310196
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Big Data Ecosystem,0.16461644
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Mathematics,0.052959632
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Statistics,0.036099605
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Data Literacy & Governance,0.06527215
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Exploratory Data Analysis,0.18212351
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Visualization & Reporting,0.09293021
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Machine Learning,0.3945329
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Deep Learning,0.36648875
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Data Engineering,0.25998363
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Model Deployment & MLOps,0.13865146
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,AI Ethics,0.29310688
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Software Engineering,0.2210904
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Big Data Ecosystem,0.25280568
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Mathematics,0.13189827
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Statistics,0.19729334
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Data Literacy & Governance,0.258219
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Exploratory Data Analysis,0.4411937
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Visualization & Reporting,0.27911568
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Machine Learning,0.20753509
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Deep Learning,0.13026969
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Data Engineering,0.37294143
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Model Deployment & MLOps,0.03680504
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,AI Ethics,0.060289133
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Software Engineering,0.15666169
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Big Data Ecosystem,0.25195932
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Mathematics,0.071407676
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Statistics,0.07585713
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Data Literacy & Governance,0.23732819
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Exploratory Data Analysis,0.41923156
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Visualization & Reporting,0.48766848
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Machine Learning,0.22216322
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Deep Learning,0.15427026
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Data Engineering,0.37729073
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Model Deployment & MLOps,0.19889049
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,AI Ethics,0.30378395
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Software Engineering,0.21676207
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Big Data Ecosystem,0.26485538
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Mathematics,0.05666109
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Statistics,0.063494354
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Data Literacy & Governance,0.19242628
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Exploratory Data Analysis,0.41380143
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Visualization & Reporting,0.27332807
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Machine Learning,0.31183398
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Deep Learning,0.23407075
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Data Engineering,0.5037137
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Model Deployment & MLOps,0.34826505
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,AI Ethics,0.14657012
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Software Engineering,0.38584584
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Big Data Ecosystem,0.3339165
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Mathematics,0.050266307
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Statistics,0.0031853523
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Data Literacy & Governance,0.14196557
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Exploratory Data Analysis,0.09499337
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Visualization & Reporting,0.12762141
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Machine Learning,0.3038018
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Deep Learning,0.48812854
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Data Engineering,0.24832961
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Model Deployment & MLOps,0.46499014
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,AI Ethics,0.36429065
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Software Engineering,0.29601747
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Big Data Ecosystem,0.21104386
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Mathematics,0.20329843
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Statistics,0.14186811
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Data Literacy & Governance,0.12220812
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Exploratory Data Analysis,0.17823622
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Visualization & Reporting,0.22271681
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Machine Learning,0.33001238
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Deep Learning,0.38239437
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Data Engineering,0.22743931
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Model Deployment & MLOps,0.119850576
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,AI Ethics,0.25431517
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Software Engineering,0.28306586
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Big Data Ecosystem,0.117820024
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Mathematics,0.0028413162
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Statistics,-0.0047673695
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Data Literacy & Governance,0.11750111
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Exploratory Data Analysis,0.18028556
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Visualization & Reporting,0.16043398
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Machine Learning,0.34357932
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Deep Learning,0.3237016
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Data Engineering,0.24887812
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Model Deployment & MLOps,0.6103705
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,AI Ethics,0.29175076
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Software Engineering,0.2563567
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Big Data Ecosystem,0.30266538
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Mathematics,-0.038840674
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Statistics,-0.018687414
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Data Literacy & Governance,0.1261603
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Exploratory Data Analysis,0.052034646
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Visualization & Reporting,0.14673157
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Machine Learning,0.09904374
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Deep Learning,0.0696757
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Data Engineering,0.2788213
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Model Deployment & MLOps,0.49681538
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,AI Ethics,0.12827279
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Software Engineering,0.27756894
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Big Data Ecosystem,0.2793153
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Mathematics,0.07802302
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Statistics,0.057250757
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Data Literacy & Governance,0.120694906
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Exploratory Data Analysis,0.090899155
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Visualization & Reporting,0.078953
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Machine Learning,0.24727611
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Deep Learning,0.26857796
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Data Engineering,0.27346206
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Model Deployment & MLOps,0.28850836
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,AI Ethics,0.4021592
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Software Engineering,0.31653243
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Big Data Ecosystem,0.33096114
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Mathematics,0.13220891
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Statistics,0.15172102
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Data Literacy & Governance,0.43919662
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Exploratory Data Analysis,0.54518425
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Visualization & Reporting,0.55206895
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Machine Learning,0.1597889
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Deep Learning,0.05980051
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Data Engineering,0.6113964
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Model Deployment & MLOps,0.1087928
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,AI Ethics,0.08495405
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Software Engineering,0.29433775
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Big Data Ecosystem,0.2900169
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Mathematics,0.11149363
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Statistics,0.20377487
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Data Literacy & Governance,0.41362357
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Exploratory Data Analysis,0.5421699
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Visualization & Reporting,0.6682459
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Machine Learning,0.13893212
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Deep Learning,0.05213631
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Data Engineering,0.52264
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Model Deployment & MLOps,0.1413989
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,AI Ethics,0.046632998
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Software Engineering,0.25587952
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Big Data Ecosystem,0.34976017
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Mathematics,0.19121602
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Statistics,0.44635278
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Data Literacy & Governance,0.15313336
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Exploratory Data Analysis,0.23709688
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Visualization & Reporting,0.20090301
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Machine Learning,0.16633493
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Deep Learning,0.014792497
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Data Engineering,0.24005203
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Model Deployment & MLOps,0.073815465
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,AI Ethics,0.047472436
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Software Engineering,0.1648256
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Big Data Ecosystem,0.04997579
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Mathematics,0.101509824
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Statistics,0.12690175
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Data Literacy & Governance,0.23319647
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Exploratory Data Analysis,0.45981872
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Visualization & Reporting,0.5337261
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Machine Learning,0.19495293
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Deep Learning,0.07966633
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Data Engineering,0.36735356
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Model Deployment & MLOps,0.13247499
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,AI Ethics,0.10483323
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Software Engineering,0.20324938
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Big Data Ecosystem,0.17678645
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Mathematics,0.16215688
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Statistics,0.25936866
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Data Literacy & Governance,0.21888205
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Exploratory Data Analysis,0.26357293
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Visualization & Reporting,0.19407934
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Machine Learning,0.14902547
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Deep Learning,0.030988708
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Data Engineering,0.14686951
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Model Deployment & MLOps,0.019907586
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,AI Ethics,0.12636662
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Software Engineering,0.14222431
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Big Data Ecosystem,0.12226624
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Mathematics,0.018228456
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Statistics,0.062744014
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Data Literacy & Governance,0.30424964
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Exploratory Data Analysis,0.35989344
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Visualization & Reporting,0.29195967
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Machine Learning,0.15188411
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Deep Learning,0.12534387
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Data Engineering,0.5416769
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Model Deployment & MLOps,0.23219922
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,AI Ethics,0.07598194
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Software Engineering,0.35163066
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Big Data Ecosystem,0.29405564
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Mathematics,0.06498662
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Statistics,0.08232334
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Data Literacy & Governance,0.39126593
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Exploratory Data Analysis,0.2124793
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Visualization & Reporting,0.20828259
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Machine Learning,0.14653441
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Deep Learning,0.08391555
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Data Engineering,0.4394128
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Model Deployment & MLOps,0.31916916
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,AI Ethics,0.06258494
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Software Engineering,0.2403323
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Big Data Ecosystem,0.606198
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Mathematics,-0.060923137
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Statistics,0.004176561
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Data Literacy & Governance,0.1712127
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Exploratory Data Analysis,0.11674589
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Visualization & Reporting,0.049912207
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Machine Learning,0.13143796
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Deep Learning,0.06356041
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Data Engineering,0.26374277
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Model Deployment & MLOps,0.19381383
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,AI Ethics,0.055403627
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Software Engineering,0.103652105
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Big Data Ecosystem,0.36584345
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Mathematics,0.009989068
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Statistics,0.04918886
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Data Literacy & Governance,0.26950824
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Exploratory Data Analysis,0.14273205
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Visualization & Reporting,0.10536453
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Machine Learning,0.11194484
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Deep Learning,0.054962244
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Data Engineering,0.3797065
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Model Deployment & MLOps,0.18231902
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,AI Ethics,0.08755557
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Software Engineering,0.18414727
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Big Data Ecosystem,0.4260695
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Mathematics,0.064085625
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Statistics,0.054628912
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Data Literacy & Governance,0.4317875
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Exploratory Data Analysis,0.13677898
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Visualization & Reporting,0.048307505
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Machine Learning,0.085224845
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Deep Learning,-0.0029911082
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Data Engineering,0.4336848
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Model Deployment & MLOps,0.096751854
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,AI Ethics,0.19663605
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Software Engineering,0.261634
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Big Data Ecosystem,0.31245804
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Mathematics,0.16681789
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Statistics,0.15925646
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Data Literacy & Governance,0.06955379
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Exploratory Data Analysis,0.35495806
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Visualization & Reporting,0.18913932
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Machine Learning,0.4759453
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Deep Learning,0.30359438
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Data Engineering,0.2868387
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Model Deployment & MLOps,0.1629806
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,AI Ethics,0.19046322
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Software Engineering,0.17310196
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Big Data Ecosystem,0.16461644
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Mathematics,0.052959632
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Statistics,0.036099605
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Data Literacy & Governance,0.06527215
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Exploratory Data Analysis,0.18212351
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Visualization & Reporting,0.09293021
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Machine Learning,0.3945329
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Deep Learning,0.36648875
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Data Engineering,0.25998363
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Model Deployment & MLOps,0.13865146
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,AI Ethics,0.29310688
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Software Engineering,0.2210904
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Big Data Ecosystem,0.25280568
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Mathematics,0.13189827
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Statistics,0.19729334
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Data Literacy & Governance,0.258219
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Exploratory Data Analysis,0.4411937
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Visualization & Reporting,0.27911568
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Machine Learning,0.20753509
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Deep Learning,0.13026969
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Data Engineering,0.37294143
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Model Deployment & MLOps,0.03680504
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,AI Ethics,0.060289133
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Software Engineering,0.15666169
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Big Data Ecosystem,0.25195932
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Mathematics,0.071407676
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Statistics,0.07585713
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Data Literacy & Governance,0.23732819
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Exploratory Data Analysis,0.41923156
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Visualization & Reporting,0.48766848
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Machine Learning,0.22216322
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Deep Learning,0.15427026
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Data Engineering,0.37729073
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Model Deployment & MLOps,0.19889049
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,AI Ethics,0.30378395
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Software Engineering,0.21676207
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Big Data Ecosystem,0.26485538
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Mathematics,0.05666109
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Statistics,0.063494354
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Data Literacy & Governance,0.19242628
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Exploratory Data Analysis,0.41380143
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Visualization & Reporting,0.27332807
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Machine Learning,0.31183398
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Deep Learning,0.23407075
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Data Engineering,0.5037137
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Model Deployment & MLOps,0.34826505
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,AI Ethics,0.14657012
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Software Engineering,0.38584584
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Big Data Ecosystem,0.3339165
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Mathematics,0.050266307
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Statistics,0.0031853523
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Data Literacy & Governance,0.14196557
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Exploratory Data Analysis,0.09499337
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Visualization & Reporting,0.12762141
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Machine Learning,0.3038018
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Deep Learning,0.48812854
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Data Engineering,0.24832961
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Model Deployment & MLOps,0.46499014
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,AI Ethics,0.36429065
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Software Engineering,0.29601747
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Big Data Ecosystem,0.21104386
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Mathematics,0.20329843
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Statistics,0.14186811
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Data Literacy & Governance,0.12220812
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Exploratory Data Analysis,0.17823622
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Visualization & Reporting,0.22271681
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Machine Learning,0.33001238
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Deep Learning,0.38239437
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Data Engineering,0.22743931
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Model Deployment & MLOps,0.119850576
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,AI Ethics,0.25431517
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Software Engineering,0.28306586
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Big Data Ecosystem,0.117820024
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Mathematics,0.0028413162
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Statistics,-0.0047673695
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Data Literacy & Governance,0.11750111
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Exploratory Data Analysis,0.18028556
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Visualization & Reporting,0.16043398
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Machine Learning,0.34357932
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Deep Learning,0.3237016
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Data Engineering,0.24887812
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Model Deployment & MLOps,0.6103705
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,AI Ethics,0.29175076
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Software Engineering,0.2563567
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps]," ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Big Data Ecosystem,0.30266538
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Mathematics,-0.038840674
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Statistics,-0.018687414
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Data Literacy & Governance,0.1261603
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Exploratory Data Analysis,0.052034646
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Visualization & Reporting,0.14673157
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Machine Learning,0.09904374
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Deep Learning,0.0696757
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Data Engineering,0.2788213
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Model Deployment & MLOps,0.49681538
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,AI Ethics,0.12827279
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Software Engineering,0.27756894
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Big Data Ecosystem,0.2793153
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Mathematics,0.07802302
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Statistics,0.057250757
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Data Literacy & Governance,0.120694906
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Exploratory Data Analysis,0.090899155
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Visualization & Reporting,0.078953
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Machine Learning,0.24727611
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Deep Learning,0.26857796
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Data Engineering,0.27346206
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Model Deployment & MLOps,0.28850836
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,AI Ethics,0.4021592
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Software Engineering,0.31653243
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Big Data Ecosystem,0.33096114
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Mathematics,0.13220891
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Statistics,0.15172102
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Data Literacy & Governance,0.43919662
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Exploratory Data Analysis,0.54518425
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Visualization & Reporting,0.55206895
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Machine Learning,0.1597889
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Deep Learning,0.05980051
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Data Engineering,0.6113964
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Model Deployment & MLOps,0.1087928
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,AI Ethics,0.08495405
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Software Engineering,0.29433775
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Big Data Ecosystem,0.2900169
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Mathematics,0.11149363
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Statistics,0.20377487
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Data Literacy & Governance,0.41362357
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Exploratory Data Analysis,0.5421699
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Visualization & Reporting,0.6682459
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Machine Learning,0.13893212
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Deep Learning,0.05213631
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Data Engineering,0.52264
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Model Deployment & MLOps,0.1413989
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,AI Ethics,0.046632998
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Software Engineering,0.25587952
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Big Data Ecosystem,0.34976017
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Mathematics,0.19121602
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Statistics,0.44635278
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Data Literacy & Governance,0.15313336
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Exploratory Data Analysis,0.23709688
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Visualization & Reporting,0.20090301
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Machine Learning,0.16633493
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Deep Learning,0.014792497
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Data Engineering,0.24005203
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Model Deployment & MLOps,0.073815465
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,AI Ethics,0.047472436
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Software Engineering,0.1648256
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Big Data Ecosystem,0.04997579
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Mathematics,0.101509824
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Statistics,0.12690175
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Data Literacy & Governance,0.23319647
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Exploratory Data Analysis,0.45981872
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Visualization & Reporting,0.5337261
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Machine Learning,0.19495293
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Deep Learning,0.07966633
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Data Engineering,0.36735356
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Model Deployment & MLOps,0.13247499
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,AI Ethics,0.10483323
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Software Engineering,0.20324938
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Big Data Ecosystem,0.17678645
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Mathematics,0.16215688
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Statistics,0.25936866
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Data Literacy & Governance,0.21888205
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Exploratory Data Analysis,0.26357293
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Visualization & Reporting,0.19407934
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Machine Learning,0.14902547
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Deep Learning,0.030988708
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Data Engineering,0.14686951
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Model Deployment & MLOps,0.019907586
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,AI Ethics,0.12636662
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Software Engineering,0.14222431
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Big Data Ecosystem,0.12226624
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Mathematics,0.018228456
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Statistics,0.062744014
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Data Literacy & Governance,0.30424964
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Exploratory Data Analysis,0.35989344
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Visualization & Reporting,0.29195967
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Machine Learning,0.15188411
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Deep Learning,0.12534387
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Data Engineering,0.5416769
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Model Deployment & MLOps,0.23219922
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,AI Ethics,0.07598194
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Software Engineering,0.35163066
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Big Data Ecosystem,0.29405564
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Mathematics,0.06498662
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Statistics,0.08232334
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Data Literacy & Governance,0.39126593
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Exploratory Data Analysis,0.2124793
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Visualization & Reporting,0.20828259
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Machine Learning,0.14653441
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Deep Learning,0.08391555
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Data Engineering,0.4394128
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Model Deployment & MLOps,0.31916916
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,AI Ethics,0.06258494
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Software Engineering,0.2403323
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Big Data Ecosystem,0.606198
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Mathematics,-0.060923137
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Statistics,0.004176561
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Data Literacy & Governance,0.1712127
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Exploratory Data Analysis,0.11674589
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Visualization & Reporting,0.049912207
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Machine Learning,0.13143796
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Deep Learning,0.06356041
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Data Engineering,0.26374277
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Model Deployment & MLOps,0.19381383
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,AI Ethics,0.055403627
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Software Engineering,0.103652105
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Big Data Ecosystem,0.36584345
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Mathematics,0.009989068
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Statistics,0.04918886
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Data Literacy & Governance,0.26950824
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Exploratory Data Analysis,0.14273205
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Visualization & Reporting,0.10536453
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Machine Learning,0.11194484
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Deep Learning,0.054962244
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Data Engineering,0.3797065
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Model Deployment & MLOps,0.18231902
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,AI Ethics,0.08755557
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Software Engineering,0.18414727
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Big Data Ecosystem,0.4260695
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Mathematics,0.064085625
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Statistics,0.054628912
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Data Literacy & Governance,0.4317875
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Exploratory Data Analysis,0.13677898
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Visualization & Reporting,0.048307505
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Machine Learning,0.085224845
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Deep Learning,-0.0029911082
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Data Engineering,0.4336848
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Model Deployment & MLOps,0.096751854
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,AI Ethics,0.19663605
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Software Engineering,0.261634
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Big Data Ecosystem,0.31245804
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Mathematics,0.16681789
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Statistics,0.15925646
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Data Literacy & Governance,0.06955379
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Exploratory Data Analysis,0.35495806
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Visualization & Reporting,0.18913932
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Machine Learning,0.4759453
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Deep Learning,0.30359438
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Data Engineering,0.2868387
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Model Deployment & MLOps,0.1629806
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,AI Ethics,0.19046322
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Software Engineering,0.17310196
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Big Data Ecosystem,0.16461644
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Mathematics,0.052959632
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Statistics,0.036099605
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Data Literacy & Governance,0.06527215
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Exploratory Data Analysis,0.18212351
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Visualization & Reporting,0.09293021
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Machine Learning,0.3945329
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Deep Learning,0.36648875
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Data Engineering,0.25998363
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Model Deployment & MLOps,0.13865146
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,AI Ethics,0.29310688
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Software Engineering,0.2210904
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Big Data Ecosystem,0.25280568
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Mathematics,0.13189827
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Statistics,0.19729334
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Data Literacy & Governance,0.258219
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Exploratory Data Analysis,0.4411937
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Visualization & Reporting,0.27911568
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Machine Learning,0.20753509
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Deep Learning,0.13026969
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Data Engineering,0.37294143
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Model Deployment & MLOps,0.03680504
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,AI Ethics,0.060289133
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Software Engineering,0.15666169
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Big Data Ecosystem,0.25195932
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Mathematics,0.071407676
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Statistics,0.07585713
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Data Literacy & Governance,0.23732819
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Exploratory Data Analysis,0.41923156
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Visualization & Reporting,0.48766848
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Machine Learning,0.22216322
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Deep Learning,0.15427026
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Data Engineering,0.37729073
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Model Deployment & MLOps,0.19889049
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,AI Ethics,0.30378395
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Software Engineering,0.21676207
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Big Data Ecosystem,0.26485538
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Mathematics,0.05666109
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Statistics,0.063494354
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Data Literacy & Governance,0.19242628
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Exploratory Data Analysis,0.41380143
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Visualization & Reporting,0.27332807
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Machine Learning,0.31183398
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Deep Learning,0.23407075
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Data Engineering,0.5037137
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Model Deployment & MLOps,0.34826505
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,AI Ethics,0.14657012
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Software Engineering,0.38584584
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Big Data Ecosystem,0.3339165
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Mathematics,0.050266307
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Statistics,0.0031853523
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Data Literacy & Governance,0.14196557
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Exploratory Data Analysis,0.09499337
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Visualization & Reporting,0.12762141
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Machine Learning,0.3038018
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Deep Learning,0.48812854
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Data Engineering,0.24832961
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Model Deployment & MLOps,0.46499014
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,AI Ethics,0.36429065
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Software Engineering,0.29601747
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Big Data Ecosystem,0.21104386
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Mathematics,0.20329843
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Statistics,0.14186811
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Data Literacy & Governance,0.12220812
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Exploratory Data Analysis,0.17823622
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Visualization & Reporting,0.22271681
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Machine Learning,0.33001238
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Deep Learning,0.38239437
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Data Engineering,0.22743931
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Model Deployment & MLOps,0.119850576
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,AI Ethics,0.25431517
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Software Engineering,0.28306586
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Big Data Ecosystem,0.117820024
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Mathematics,0.0028413162
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Statistics,-0.0047673695
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Data Literacy & Governance,0.11750111
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Exploratory Data Analysis,0.18028556
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Visualization & Reporting,0.16043398
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Machine Learning,0.34357932
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Deep Learning,0.3237016
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Data Engineering,0.24887812
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Model Deployment & MLOps,0.6103705
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,AI Ethics,0.29175076
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Software Engineering,0.2563567
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Big Data Ecosystem,0.30266538
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Mathematics,-0.038840674
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Statistics,-0.018687414
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Data Literacy & Governance,0.1261603
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Exploratory Data Analysis,0.052034646
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Visualization & Reporting,0.14673157
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Machine Learning,0.09904374
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Deep Learning,0.0696757
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Data Engineering,0.2788213
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Model Deployment & MLOps,0.49681538
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,AI Ethics,0.12827279
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Software Engineering,0.27756894
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Big Data Ecosystem,0.2793153
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Mathematics,0.07802302
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Statistics,0.057250757
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Data Literacy & Governance,0.120694906
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Exploratory Data Analysis,0.090899155
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Visualization & Reporting,0.078953
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Machine Learning,0.24727611
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Deep Learning,0.26857796
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Data Engineering,0.27346206
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Model Deployment & MLOps,0.28850836
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,AI Ethics,0.4021592
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Software Engineering,0.31653243
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Big Data Ecosystem,0.33096114
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Mathematics,0.13220891
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Statistics,0.15172102
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Data Literacy & Governance,0.43919662
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Exploratory Data Analysis,0.54518425
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Visualization & Reporting,0.55206895
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Machine Learning,0.1597889
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Deep Learning,0.05980051
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Data Engineering,0.6113964
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Model Deployment & MLOps,0.1087928
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,AI Ethics,0.08495405
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Software Engineering,0.29433775
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Big Data Ecosystem,0.2900169
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Mathematics,0.11149363
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Statistics,0.20377487
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Data Literacy & Governance,0.41362357
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Exploratory Data Analysis,0.5421699
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Visualization & Reporting,0.6682459
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Machine Learning,0.13893212
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Deep Learning,0.05213631
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Data Engineering,0.52264
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Model Deployment & MLOps,0.1413989
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,AI Ethics,0.046632998
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Software Engineering,0.25587952
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Big Data Ecosystem,0.34976017
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Mathematics,0.19121602
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Statistics,0.44635278
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Data Literacy & Governance,0.15313336
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Exploratory Data Analysis,0.23709688
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Visualization & Reporting,0.20090301
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Machine Learning,0.16633493
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Deep Learning,0.014792497
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Data Engineering,0.24005203
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Model Deployment & MLOps,0.073815465
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,AI Ethics,0.047472436
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Software Engineering,0.1648256
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Big Data Ecosystem,0.04997579
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Mathematics,0.101509824
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Statistics,0.12690175
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Data Literacy & Governance,0.23319647
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Exploratory Data Analysis,0.45981872
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Visualization & Reporting,0.5337261
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Machine Learning,0.19495293
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Deep Learning,0.07966633
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Data Engineering,0.36735356
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Model Deployment & MLOps,0.13247499
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,AI Ethics,0.10483323
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Software Engineering,0.20324938
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Big Data Ecosystem,0.17678645
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Mathematics,0.16215688
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Statistics,0.25936866
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Data Literacy & Governance,0.21888205
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Exploratory Data Analysis,0.26357293
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Visualization & Reporting,0.19407934
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Machine Learning,0.14902547
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Deep Learning,0.030988708
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Data Engineering,0.14686951
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Model Deployment & MLOps,0.019907586
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,AI Ethics,0.12636662
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Software Engineering,0.14222431
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Big Data Ecosystem,0.12226624
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Mathematics,0.018228456
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Statistics,0.062744014
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Data Literacy & Governance,0.30424964
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Exploratory Data Analysis,0.35989344
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Visualization & Reporting,0.29195967
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Machine Learning,0.15188411
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Deep Learning,0.12534387
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Data Engineering,0.5416769
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Model Deployment & MLOps,0.23219922
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,AI Ethics,0.07598194
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Software Engineering,0.35163066
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Big Data Ecosystem,0.29405564
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Mathematics,0.06498662
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Statistics,0.08232334
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Data Literacy & Governance,0.39126593
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Exploratory Data Analysis,0.2124793
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Visualization & Reporting,0.20828259
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Machine Learning,0.14653441
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Deep Learning,0.08391555
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Data Engineering,0.4394128
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Model Deployment & MLOps,0.31916916
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,AI Ethics,0.06258494
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Software Engineering,0.2403323
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Big Data Ecosystem,0.606198
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Mathematics,-0.060923137
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Statistics,0.004176561
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Data Literacy & Governance,0.1712127
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Exploratory Data Analysis,0.11674589
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Visualization & Reporting,0.049912207
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Machine Learning,0.13143796
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Deep Learning,0.06356041
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Data Engineering,0.26374277
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Model Deployment & MLOps,0.19381383
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,AI Ethics,0.055403627
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Software Engineering,0.103652105
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Big Data Ecosystem,0.36584345
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Mathematics,0.009989068
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Statistics,0.04918886
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Data Literacy & Governance,0.26950824
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Exploratory Data Analysis,0.14273205
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Visualization & Reporting,0.10536453
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Machine Learning,0.11194484
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Deep Learning,0.054962244
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Data Engineering,0.3797065
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Model Deployment & MLOps,0.18231902
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,AI Ethics,0.08755557
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Software Engineering,0.18414727
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Big Data Ecosystem,0.4260695
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Mathematics,0.064085625
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Statistics,0.054628912
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Data Literacy & Governance,0.4317875
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Exploratory Data Analysis,0.13677898
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Visualization & Reporting,0.048307505
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Machine Learning,0.085224845
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Deep Learning,-0.0029911082
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Data Engineering,0.4336848
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Model Deployment & MLOps,0.096751854
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,AI Ethics,0.19663605
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Software Engineering,0.261634
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Big Data Ecosystem,0.31245804
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Mathematics,0.16681789
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Statistics,0.15925646
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Data Literacy & Governance,0.06955379
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Exploratory Data Analysis,0.35495806
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Visualization & Reporting,0.18913932
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Machine Learning,0.4759453
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Deep Learning,0.30359438
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Data Engineering,0.2868387
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Model Deployment & MLOps,0.1629806
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,AI Ethics,0.19046322
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Software Engineering,0.17310196
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Big Data Ecosystem,0.16461644
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Mathematics,0.052959632
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Statistics,0.036099605
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Data Literacy & Governance,0.06527215
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Exploratory Data Analysis,0.18212351
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Visualization & Reporting,0.09293021
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Machine Learning,0.3945329
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Deep Learning,0.36648875
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Data Engineering,0.25998363
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Model Deployment & MLOps,0.13865146
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,AI Ethics,0.29310688
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Software Engineering,0.2210904
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Big Data Ecosystem,0.25280568
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Mathematics,0.13189827
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Statistics,0.19729334
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Data Literacy & Governance,0.258219
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Exploratory Data Analysis,0.4411937
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Visualization & Reporting,0.27911568
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Machine Learning,0.20753509
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Deep Learning,0.13026969
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Data Engineering,0.37294143
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Model Deployment & MLOps,0.03680504
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,AI Ethics,0.060289133
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Software Engineering,0.15666169
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Big Data Ecosystem,0.25195932
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Mathematics,0.071407676
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Statistics,0.07585713
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Data Literacy & Governance,0.23732819
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Exploratory Data Analysis,0.41923156
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Visualization & Reporting,0.48766848
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Machine Learning,0.22216322
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Deep Learning,0.15427026
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Data Engineering,0.37729073
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Model Deployment & MLOps,0.19889049
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,AI Ethics,0.30378395
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Software Engineering,0.21676207
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Big Data Ecosystem,0.26485538
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Mathematics,0.05666109
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Statistics,0.063494354
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Data Literacy & Governance,0.19242628
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Exploratory Data Analysis,0.41380143
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Visualization & Reporting,0.27332807
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Machine Learning,0.31183398
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Deep Learning,0.23407075
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Data Engineering,0.5037137
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Model Deployment & MLOps,0.34826505
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,AI Ethics,0.14657012
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Software Engineering,0.38584584
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Big Data Ecosystem,0.3339165
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Mathematics,0.050266307
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Statistics,0.0031853523
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Data Literacy & Governance,0.14196557
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Exploratory Data Analysis,0.09499337
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Visualization & Reporting,0.12762141
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Machine Learning,0.3038018
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Deep Learning,0.48812854
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Data Engineering,0.24832961
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Model Deployment & MLOps,0.46499014
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,AI Ethics,0.36429065
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Software Engineering,0.29601747
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Big Data Ecosystem,0.21104386
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Mathematics,0.20329843
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Statistics,0.14186811
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Data Literacy & Governance,0.12220812
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Exploratory Data Analysis,0.17823622
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Visualization & Reporting,0.22271681
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Machine Learning,0.33001238
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Deep Learning,0.38239437
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Data Engineering,0.22743931
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Model Deployment & MLOps,0.119850576
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,AI Ethics,0.25431517
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Software Engineering,0.28306586
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Big Data Ecosystem,0.117820024
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Mathematics,0.0028413162
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Statistics,-0.0047673695
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Data Literacy & Governance,0.11750111
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Exploratory Data Analysis,0.18028556
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Visualization & Reporting,0.16043398
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Machine Learning,0.34357932
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Deep Learning,0.3237016
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Data Engineering,0.24887812
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Model Deployment & MLOps,0.6103705
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,AI Ethics,0.29175076
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Software Engineering,0.2563567
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Big Data Ecosystem,0.30266538
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Mathematics,-0.038840674
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Statistics,-0.018687414
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Data Literacy & Governance,0.1261603
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Exploratory Data Analysis,0.052034646
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Visualization & Reporting,0.14673157
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Machine Learning,0.09904374
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Deep Learning,0.0696757
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Data Engineering,0.2788213
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Model Deployment & MLOps,0.49681538
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,AI Ethics,0.12827279
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Software Engineering,0.27756894
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Big Data Ecosystem,0.2793153
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Mathematics,0.07802302
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Statistics,0.057250757
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Data Literacy & Governance,0.120694906
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Exploratory Data Analysis,0.090899155
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Visualization & Reporting,0.078953
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Machine Learning,0.24727611
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Deep Learning,0.26857796
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Data Engineering,0.27346206
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Model Deployment & MLOps,0.28850836
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,AI Ethics,0.4021592
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Software Engineering,0.31653243
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Big Data Ecosystem,0.33096114
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Mathematics,0.13220891
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Statistics,0.15172102
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Data Literacy & Governance,0.43919662
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Exploratory Data Analysis,0.54518425
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Visualization & Reporting,0.55206895
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Machine Learning,0.1597889
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Deep Learning,0.05980051
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Data Engineering,0.6113964
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Model Deployment & MLOps,0.1087928
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,AI Ethics,0.08495405
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Software Engineering,0.29433775
+"Data extraction, transformation, and visualization",SQL [Coding], Data Visualization & Interactive Data Exploration [EDA],Data Analyst,Big Data Ecosystem,0.2900169
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Mathematics,0.11149363
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Statistics,0.20377487
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Data Literacy & Governance,0.41362357
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Exploratory Data Analysis,0.5421699
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Visualization & Reporting,0.6682459
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Machine Learning,0.13893212
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Deep Learning,0.05213631
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Data Engineering,0.52264
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Model Deployment & MLOps,0.1413989
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,AI Ethics,0.046632998
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Software Engineering,0.25587952
+Build dashboards and reports,Data Visualization & Interactive Data Exploration [EDA], Data Warehousing [DEng],Data Analyst,Big Data Ecosystem,0.34976017
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Mathematics,0.19121602
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Statistics,0.44635278
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Data Literacy & Governance,0.15313336
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Exploratory Data Analysis,0.23709688
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Visualization & Reporting,0.20090301
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Machine Learning,0.16633493
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Deep Learning,0.014792497
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Data Engineering,0.24005203
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Model Deployment & MLOps,0.073815465
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,AI Ethics,0.047472436
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Software Engineering,0.1648256
+Customer behavior analysis,Experimentation - Hypothesis Testing [Stats], Experimentation - A/B Testing [Stats],Data Analyst,Big Data Ecosystem,0.04997579
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Mathematics,0.101509824
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Statistics,0.12690175
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Data Literacy & Governance,0.23319647
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Exploratory Data Analysis,0.45981872
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Visualization & Reporting,0.5337261
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Machine Learning,0.19495293
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Deep Learning,0.07966633
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Data Engineering,0.36735356
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Model Deployment & MLOps,0.13247499
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,AI Ethics,0.10483323
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Software Engineering,0.20324938
+Product performance evaluation,Data Visualization & Interactive Data Exploration [EDA],,Data Analyst,Big Data Ecosystem,0.17678645
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Mathematics,0.16215688
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Statistics,0.25936866
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Data Literacy & Governance,0.21888205
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Exploratory Data Analysis,0.26357293
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Visualization & Reporting,0.19407934
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Machine Learning,0.14902547
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Deep Learning,0.030988708
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Data Engineering,0.14686951
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Model Deployment & MLOps,0.019907586
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,AI Ethics,0.12636662
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Software Engineering,0.14222431
+Financial metrics analysis,Regression Analysis [EDA], Causal Analysis [EDA],Data Analyst,Big Data Ecosystem,0.12226624
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Mathematics,0.018228456
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Statistics,0.062744014
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Data Literacy & Governance,0.30424964
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Exploratory Data Analysis,0.35989344
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Visualization & Reporting,0.29195967
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Machine Learning,0.15188411
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Deep Learning,0.12534387
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Data Engineering,0.5416769
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Model Deployment & MLOps,0.23219922
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,AI Ethics,0.07598194
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Software Engineering,0.35163066
+Develop ETL/ELT pipelines,SQL [Coding], Data Wrangling - ETL / ELT [DEng],Data Engineer,Big Data Ecosystem,0.29405564
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Mathematics,0.06498662
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Statistics,0.08232334
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Data Literacy & Governance,0.39126593
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Exploratory Data Analysis,0.2124793
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Visualization & Reporting,0.20828259
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Machine Learning,0.14653441
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Deep Learning,0.08391555
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Data Engineering,0.4394128
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Model Deployment & MLOps,0.31916916
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,AI Ethics,0.06258494
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Software Engineering,0.2403323
+Maintain data lakes and warehouses,Big Data Technology [DEng], Distributed Systems [DEng],Data Engineer,Big Data Ecosystem,0.606198
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Mathematics,-0.060923137
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Statistics,0.004176561
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Data Literacy & Governance,0.1712127
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Exploratory Data Analysis,0.11674589
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Visualization & Reporting,0.049912207
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Machine Learning,0.13143796
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Deep Learning,0.06356041
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Data Engineering,0.26374277
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Model Deployment & MLOps,0.19381383
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,AI Ethics,0.055403627
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Software Engineering,0.103652105
+Optimize database performance,Cloud & Serverless Architecture [DEng], Cloud Native Technology [DEng],Data Engineer,Big Data Ecosystem,0.36584345
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Mathematics,0.009989068
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Statistics,0.04918886
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Data Literacy & Governance,0.26950824
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Exploratory Data Analysis,0.14273205
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Visualization & Reporting,0.10536453
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Machine Learning,0.11194484
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Deep Learning,0.054962244
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Data Engineering,0.3797065
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Model Deployment & MLOps,0.18231902
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,AI Ethics,0.08755557
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Software Engineering,0.18414727
+Manage cloud-based data processing,Relational Database [DEng], Non-Relational Database [DEng],Data Engineer,Big Data Ecosystem,0.4260695
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Mathematics,0.064085625
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Statistics,0.054628912
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Data Literacy & Governance,0.4317875
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Exploratory Data Analysis,0.13677898
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Visualization & Reporting,0.048307505
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Machine Learning,0.085224845
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Deep Learning,-0.0029911082
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Data Engineering,0.4336848
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Model Deployment & MLOps,0.096751854
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,AI Ethics,0.19663605
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Software Engineering,0.261634
+Ensure data security and integrity,Data Security & Privacy [DEng],,Data Engineer,Big Data Ecosystem,0.31245804
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Mathematics,0.16681789
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Statistics,0.15925646
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Data Literacy & Governance,0.06955379
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Exploratory Data Analysis,0.35495806
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Visualization & Reporting,0.18913932
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Machine Learning,0.4759453
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Deep Learning,0.30359438
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Data Engineering,0.2868387
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Model Deployment & MLOps,0.1629806
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,AI Ethics,0.19046322
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Software Engineering,0.17310196
+Develop predictive models and clustering,Supervised Machine Learning [ML], Unsupervised Machine Learning [ML],Data Scientist,Big Data Ecosystem,0.16461644
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Mathematics,0.052959632
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Statistics,0.036099605
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Data Literacy & Governance,0.06527215
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Exploratory Data Analysis,0.18212351
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Visualization & Reporting,0.09293021
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Machine Learning,0.3945329
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Deep Learning,0.36648875
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Data Engineering,0.25998363
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Model Deployment & MLOps,0.13865146
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,AI Ethics,0.29310688
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Software Engineering,0.2210904
+Perform machine learning analysis,Natural Language Processing (NLP) [DL], Generative AI with Large Language Model (LLM) [DL],Data Scientist,Big Data Ecosystem,0.25280568
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Mathematics,0.13189827
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Statistics,0.19729334
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Data Literacy & Governance,0.258219
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Exploratory Data Analysis,0.4411937
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Visualization & Reporting,0.27911568
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Machine Learning,0.20753509
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Deep Learning,0.13026969
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Data Engineering,0.37294143
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Model Deployment & MLOps,0.03680504
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,AI Ethics,0.060289133
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Software Engineering,0.15666169
+Analyze structured and unstructured data,Time Series Analysis [EDA],,Data Scientist,Big Data Ecosystem,0.25195932
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Mathematics,0.071407676
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Statistics,0.07585713
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Data Literacy & Governance,0.23732819
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Exploratory Data Analysis,0.41923156
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Visualization & Reporting,0.48766848
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Machine Learning,0.22216322
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Deep Learning,0.15427026
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Data Engineering,0.37729073
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Model Deployment & MLOps,0.19889049
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,AI Ethics,0.30378395
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Software Engineering,0.21676207
+Optimize business processes with AI,Data Visualization & Interactive Data Exploration [EDA],,Data Scientist,Big Data Ecosystem,0.26485538
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Mathematics,0.05666109
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Statistics,0.063494354
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Data Literacy & Governance,0.19242628
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Exploratory Data Analysis,0.41380143
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Visualization & Reporting,0.27332807
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Machine Learning,0.31183398
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Deep Learning,0.23407075
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Data Engineering,0.5037137
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Model Deployment & MLOps,0.34826505
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,AI Ethics,0.14657012
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Software Engineering,0.38584584
+Automate data analysis workflows,Feature Engineering [ML],,Data Scientist,Big Data Ecosystem,0.3339165
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Mathematics,0.050266307
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Statistics,0.0031853523
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Data Literacy & Governance,0.14196557
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Exploratory Data Analysis,0.09499337
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Visualization & Reporting,0.12762141
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Machine Learning,0.3038018
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Deep Learning,0.48812854
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Data Engineering,0.24832961
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Model Deployment & MLOps,0.46499014
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,AI Ethics,0.36429065
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Software Engineering,0.29601747
+Build and deploy AI models,Neural Network & Deep Learning [DL],,AI Engineer,Big Data Ecosystem,0.21104386
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Mathematics,0.20329843
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Statistics,0.14186811
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Data Literacy & Governance,0.12220812
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Exploratory Data Analysis,0.17823622
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Visualization & Reporting,0.22271681
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Machine Learning,0.33001238
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Deep Learning,0.38239437
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Data Engineering,0.22743931
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Model Deployment & MLOps,0.119850576
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,AI Ethics,0.25431517
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Software Engineering,0.28306586
+Work on computer vision and NLP,Computer Vision [DL],,AI Engineer,Big Data Ecosystem,0.117820024
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Mathematics,0.0028413162
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Statistics,-0.0047673695
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Data Literacy & Governance,0.11750111
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Exploratory Data Analysis,0.18028556
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Visualization & Reporting,0.16043398
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Machine Learning,0.34357932
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Deep Learning,0.3237016
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Data Engineering,0.24887812
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Model Deployment & MLOps,0.6103705
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,AI Ethics,0.29175076
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Software Engineering,0.2563567
+Optimize AI model inference,Machine Learning Modelling Pipeline [MLOps],"ML Model Deployment, Monitoring, and Logging [MLOps]",AI Engineer,Big Data Ecosystem,0.30266538
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Mathematics,-0.038840674
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Statistics,-0.018687414
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Data Literacy & Governance,0.1261603
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Exploratory Data Analysis,0.052034646
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Visualization & Reporting,0.14673157
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Machine Learning,0.09904374
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Deep Learning,0.0696757
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Data Engineering,0.2788213
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Model Deployment & MLOps,0.49681538
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,AI Ethics,0.12827279
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Software Engineering,0.27756894
+Develop MLOps pipelines,ORM & REST API [DEng],,AI Engineer,Big Data Ecosystem,0.2793153
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Mathematics,0.07802302
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Statistics,0.057250757
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Data Literacy & Governance,0.120694906
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Exploratory Data Analysis,0.090899155
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Visualization & Reporting,0.078953
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Machine Learning,0.24727611
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Deep Learning,0.26857796
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Data Engineering,0.27346206
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Model Deployment & MLOps,0.28850836
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,AI Ethics,0.4021592
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Software Engineering,0.31653243
+Integrate AI solutions into business applications,Edge Computing [DL],,AI Engineer,Big Data Ecosystem,0.33096114

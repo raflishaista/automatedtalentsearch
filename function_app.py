@@ -109,33 +109,6 @@ def load_datasets_from_json_newfile(json_data):
         logging.error(f"Error loading datasets from JSON: {e}")
         return None
     
-def calculate_job_level(grade, level):
-    try:
-        grade = str(grade).upper().strip()
-        level = int(level) if pd.notna(level) else 1
-    except:
-        return 1
-
-    # Base values per grade
-    grade_base = {
-        "BASIC": 1,
-        "JUNIOR": 2,
-        "MIDDLE": 5,
-        "SENIOR": 8
-    }
-
-    base = grade_base.get(grade, 1)
-
-    # BASIC always stays lowest
-    if grade == "BASIC":
-        return 1
-
-    # Clamp level between 1–3
-    level = max(1, min(level, 3))
-
-    # Each level adds +1
-    return base + (level - 1)
-    
 def is_json_valid(df):
     """ Row-level validation for latest.json """
     if df.empty:
@@ -253,10 +226,6 @@ def find_talent_for_use_case_newfile(df_ureq, df_selfassessment, df_talent, df_e
 
     # --- Step 7: Merge with Talent & Eval ---
     df_talent['Durasi Bulan'] = df_talent['LAMA KERJA BERJALAN'].apply(convert_to_months)
-    df_talent['Job_Level'] = df_talent.apply(
-    lambda row: calculate_job_level(row.get('GRADE'), row.get('LEVEL')),
-    axis=1
-    )
     df_agg_talent = pd.merge(df_talent, df_eval, on='UNIQUE ID')
 
     # scoring eval already Capability Score
@@ -329,11 +298,11 @@ def talent_recommender_newfile(req: func.HttpRequest) -> func.HttpResponse:
 
         # Optional: reorder or limit columns (to mirror your previous final_df)
         columns_order = [
-            "Responsibilities", "Skill 1", "Skill 2", "Requested_Role",
-            "agg_sentences", "UNIQUE ID", "Avg_SkillScore", 
-            "Cluster", "ROLE", "LAMA KERJA BERJALAN", "GRADE", "LEVEL", "LG INDEX"
-            "Durasi Bulan", "Expert Judgement", "Capability Score", 
-            "scoring_eval", "job_count", "d", "finalscore", "finalscore_scaled"
+            "Responsibilities", "Skill 1", "Skill 2", "Requested_Role", "agg_sentences",
+            "UNIQUE ID", "Avg_SkillScore", "Cluster", "ROLE",
+            "LAMA KERJA BERJALAN", "GRADE", "Durasi Bulan",
+            "Expert Judgement", "Capability Score", "scoring_eval",
+            "job_count", "d", "finalscore", "finalscore_scaled"
         ]
         existing_cols = [c for c in columns_order if c in df_final.columns]
         df_final = df_final[existing_cols]
