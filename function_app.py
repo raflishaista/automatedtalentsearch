@@ -253,6 +253,10 @@ def find_talent_for_use_case_newfile(df_ureq, df_selfassessment, df_talent, df_e
 
     # --- Step 7: Merge with Talent & Eval ---
     df_talent['Durasi Bulan'] = df_talent['LAMA KERJA BERJALAN'].apply(convert_to_months)
+    df_talent['Job_Level'] = df_talent.apply(
+    lambda row: calculate_job_level(row.get('GRADE'), row.get('LEVEL')),
+    axis=1
+    )
     df_agg_talent = pd.merge(df_talent, df_eval, on='UNIQUE ID')
 
     # scoring eval already Capability Score
