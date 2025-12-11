@@ -298,11 +298,11 @@ def talent_recommender_newfile(req: func.HttpRequest) -> func.HttpResponse:
 
         # Optional: reorder or limit columns (to mirror your previous final_df)
         columns_order = [
-            "Responsibilities", "Skill 1", "Skill 2", "Requested_Role", "agg_sentences",
-            "UNIQUE ID", "Avg_SkillScore", "Cluster", "ROLE",
-            "LAMA KERJA BERJALAN", "GRADE", "Durasi Bulan",
-            "Expert Judgement", "Capability Score", "scoring_eval",
-            "job_count", "d", "finalscore", "finalscore_scaled"
+            "Responsibilities", "Skill 1", "Skill 2", "Requested_Role",
+            "agg_sentences", "UNIQUE ID", "Avg_SkillScore", 
+            "Cluster", "ROLE", "LAMA KERJA BERJALAN", "GRADE", "LEVEL", "SKILL INDEX", "SKILL INDEX INT",
+            "Durasi Bulan", "Expert Judgement", "Capability Score", 
+            "scoring_eval", "job_count", "d", "finalscore", "finalscore_scaled"
         ]
         existing_cols = [c for c in columns_order if c in df_final.columns]
         df_final = df_final[existing_cols]
